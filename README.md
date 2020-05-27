@@ -1,1 +1,1 @@
-C++ gomikasu
+C++
